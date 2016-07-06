@@ -1,0 +1,42 @@
+Greetings Agent NAME, 
+     
+	Welcome to the SS Athematica! As an exciting new recruit on this fine vessel,
+we hope you'll find your accomodations and role to your expectations. As was
+mentioned in your orientation pamphlet, for your probationary period, your
+accomodations will be in sub-basement CL-3, room #718 and you will report to
+your section on Monday at 0400 hours for your orientation as your exciting
+new position as a Janitorial Services Intern. If you have any questions,
+please feel free to never ask anyone.
+     
+	Once again, welcome to the SS Athematica,
+     
+<Enter Agent Name Here>
+PAUSE  
+DRAMATIC 4
+This message will destruct in 3...
+2...
+1...
+     
+CLEAR SCREEN
+Your name is NAME. You've spent the last 5 months travelling with the SS Athematica.
+You've worked hard and long to be promoted from Janitorial Services Intern,
+to Janitorial Services Staff, to Janitorial Services Supervisor. When they say
+"We run a clean ship", they mean it.
+PAUSE 3
+      
+Today is Monday, your 6-month anniversary with the SS Athematica. Today is the proudest
+day of your life. Today, you become the LEAD HEAD JANITORIAL SERVICES EXPERT. As you walk to your
+ceremony, where the Regional Assistant to the Vice Capatain of Operations Management will
+award you with the fanciest award on the ship, the Golden Toilet Sponge, THE ALARM GOES OFF!
+The whole ship begins to panic. In the chaos, the captain announces over the loud speaker,
+PAUSE 3
+     
+"Attention Crew, we're are being attacked by an advanced alien race who are invincible to even
+our strongest weapons. We have found their one true weakness but it's too late. Their weakness
+is...
+DRAMATIC 5
+.
+.
+.
+Math."
+ESCAPE SEQUENCE
